@@ -1,6 +1,10 @@
+import Navbar from "./components/Navbar.tsx";
+
 const App = () => {
   return <>
-      <h1 className="text-3xl font-bold underline">Welcome to MacFolio</h1>
+     <main>
+      <Navbar />
+     </main>
   </>
 }
 
