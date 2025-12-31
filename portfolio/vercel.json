@@ -1,4 +1,6 @@
 {
+  "cleanUrls": true,
+  "trailingSlash": true,
   "routes": [
     { "src": "^/$", "dest": "/.dist/index.html" },
     { "src": "^/(.*)", "dest": "/.dist/$1" }
