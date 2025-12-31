@@ -1,0 +1,1 @@
+@layer modifier{.thin{max-width:25em}.wide{max-width:inherit;width:100%}.loose{margin-block:var(--l)}[hidden]{display:none}a:has(img:only-child){font-size:0}}
