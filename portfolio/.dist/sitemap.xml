@@ -2,78 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
   <loc>https://acme.org/blog/css-beats-js</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/blog/css-is-awesome</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/blog/design-engineering</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/blog/design-systems</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/blog/extreme-performance</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/blog/</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/blog/web-standards</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/accessible-design</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/contact/</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/color-theory</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/contact/thanks</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/css-architecture-patterns</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/accessible-design</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/design-systems-that-scale</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/color-theory</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/css-architecture-patterns</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/layout-with-css</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/design-systems-that-scale</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/performance-optimization</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/progressive-enhancement</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/layout-with-css</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/semantic-html</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/performance-optimization</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/testing-web-standards</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/progressive-enhancement</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
-  <loc>https://acme.org/projects/web-typo-fundamentals</loc>
-  <lastmod>2025-12-31</lastmod>
+  <loc>https://acme.org/docs/semantic-html</loc>
+  <lastmod>2025-10-10</lastmod>
+</url>
+<url>
+  <loc>https://acme.org/docs/testing-web-standards</loc>
+  <lastmod>2025-10-10</lastmod>
+</url>
+<url>
+  <loc>https://acme.org/docs/web-typo-fundamentals</loc>
+  <lastmod>2025-10-10</lastmod>
 </url>
 <url>
   <loc>https://acme.org/</loc>
-  <lastmod>2025-12-31</lastmod>
+  <lastmod>2025-10-10</lastmod>
 </url>
 </urlset>
