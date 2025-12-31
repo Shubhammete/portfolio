@@ -1,7 +1,7 @@
 
 ---
 pagehead: false
-skip: true
+skip: false
 ---
 
 # Blog
