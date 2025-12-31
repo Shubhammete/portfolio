@@ -1,8 +1,10 @@
 {
   "cleanUrls": true,
   "trailingSlash": true,
-  "routes": [
-    { "src": "^/$", "dest": "/.dist/index.html" },
-    { "src": "^/(.*)", "dest": "/.dist/$1" }
+  "rewrites": [
+    { "source": "/", "destination": "/.dist/index.html" },
+    { "source": "/blog/", "destination": "/.dist/blog/index.html" },
+    { "source": "/blog/:slug", "destination": "/.dist/blog/:slug.html" },
+    { "source": "/(.*)", "destination": "/.dist/$1" }
   ]
 }
