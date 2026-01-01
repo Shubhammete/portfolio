@@ -53,12 +53,12 @@
   }
 
   /* note  */
-  /* .note {
+  .note {
     background-color: var(--base-200);
     max-width: var(--max-line-width);
     margin-block: var(--m);
     padding: 1em;
     p { margin: 0 }
-  } */
+  }
 
 }
